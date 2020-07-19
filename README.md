@@ -1,2 +1,2 @@
-# oauth-service
-Servicio Web Oauth escrito en Golang
+# JWT Service
+Servicio Web para validación de tokens JWT escrito en Golang
